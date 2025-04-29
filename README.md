@@ -1,1 +1,3 @@
 # hylang-examples
+
+License: GPL
